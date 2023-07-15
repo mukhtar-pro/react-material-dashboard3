@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@amcharts/amcharts4": "^4.9.26",
+    "@amcharts/amcharts4": "^4.10.36",
     "@date-io/date-fns": "1.x",
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",
